@@ -8,5 +8,3 @@ def prime(n):
     return n
 
 number=13195
-
-
